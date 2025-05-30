@@ -1,2 +1,2 @@
 # qg-sms
-Implementation details for QG evaluation metric QG-SMS
+Implementation details for our paper: QG-SMS: Enhancing Test Item Analysis via Student Modeling and Simulation
