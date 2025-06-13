@@ -1,0 +1,22 @@
+<|im_start|>system
+You are an experienced instructor.
+<|im_end|>
+<|im_start|>user
+Given the following learning material:
+{L_full_text}
+
+Consider students with various understanding of the lecture content in a scenario where a quiz about the above lecture is being conducted.
+Ensure that you generate at least 10 roles for the scenario.
+For each student, provide a detailed description that includes their name and their understanding of the lecture content.
+The distribution of understanding of lecture content must mimic that in a real classroom.
+Response in a json format as follows:
+{{
+    "response": [
+        {{
+            "name": [Descriptive name representing students knowledge],
+            "understanding": [Detailed information about the student understanding of the specific lecture content]
+        }}
+        ...
+    ]
+}}
+<|im_end|>

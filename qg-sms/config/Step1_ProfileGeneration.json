@@ -1,0 +1,12 @@
+[
+    {
+        "prompt" : "Step1_ProfileGeneration.txt",
+        "model_name" : "gpt-4o-mini",
+        "openai_kwargs" : {
+            "model" : "gpt-4o-mini",
+            "response_format" : {
+                "type": "json_object"
+            }
+        }
+    }
+]

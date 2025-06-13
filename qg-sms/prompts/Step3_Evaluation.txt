@@ -1,0 +1,22 @@
+<|im_start|>system
+You are an experienced instructor.
+<|im_end|>
+<|im_start|>user
+You are interested in finding a quiz question that satisfies the following requirement: {requirement}
+
+You are given 2 output quiz questions Output (a) and Output (b) and the analysis of the
+responses of each student who attempted the questions. 
+Your task is to identify which of Output (a) and Output (b) better satisfies the requirement that {requirement} based on the question content and student performance.
+{requirement_description}
+
+# Output (a):
+{question_1}
+
+# Output (b):
+{question_2}
+
+# Consider Student Performance:
+{predicted_student_performance}
+
+# Which question better satisfies the requirement that {requirement}, Output (a) or Output (b)? Your response should be either "Output (a)" or "Output (b)".
+<|im_end|>

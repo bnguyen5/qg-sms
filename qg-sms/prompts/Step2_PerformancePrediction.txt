@@ -1,0 +1,32 @@
+<|im_start|>system
+You are an experienced instructor.
+<|im_end|>
+<|im_start|>user
+Given the following learning material:
+{L_full_text}
+
+
+Below is the list of students who attended the lectures and their reported understanding of the learning material
+{formatted_student_list}
+
+Below is the list of students and their reported understanding of the learning materials:
+Q1: {question_1}
+
+Q2: {question_2}
+
+For each student, predict whether the student will correctly answer each question based on both the student's understanding, question's difficulty, guessing factors, etc.
+Response in a json format as follows:
+{{
+    "response": [
+    {{
+        "s_id": [original id of student as provided],
+        "name": [original name of student as provided],
+        "predicted_accuracy_q1": [your prediction of whether the student will correctly answer q1 as “correct” or “incorrect”],
+        "explanation_q1": [your explanation of your prediction for q1. If you predict the student will answer incorrectly, specify which distractor confuses the student here.],
+        "predicted_accuracy_q2": [your prediction of whether the student will correctly answer q2 as “correct” or “incorrect”],
+        "explanation_q2": [your explanation of your prediction for q2. If you predict the student will answer incorrectly, specify which distractor confuses the student here.]
+    }},
+    ...
+    ]
+}}
+<|im_end|>
