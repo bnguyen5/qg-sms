@@ -18,5 +18,5 @@ Your task is to identify which of Output (a) and Output (b) better satisfies the
 # Consider Student Performance:
 {predicted_student_performance}
 
-# Which question better satisfies the requirement that {requirement}, Output (a) or Output (b)? Your response should be either "Output (a)" or "Output (b)".
+# Which question better satisfies the requirement that {requirement}, Output (a) or Output (b)? Your response should be either "Output (a)" or "Output (b)" verbatim.
 <|im_end|>
