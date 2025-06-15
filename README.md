@@ -41,38 +41,35 @@ Your input JSON file should be a **list of dictionaries**. Each dictionary repre
 ```json
 [
   {
-    "q_id": "Q_Geo_001",
-    "learning_mat_id": "LM_EU_Capitals",
-    "q_text": "Which city is the capital of France?",
-    "answer": "Paris",
-    "learning_mat": "France, a country in Western Europe, is famous for its capital city, Paris, situated on the Seine River.",
-    "topic": "Geography",
+    "q_id": "1_1",
+    "learning_mat_id": 0,
+    "q_text": "Which of the following could become the applications of AI: (1). Social media face filters (2). Facial recognition (3). Content recommendation (4). Language translation (5). Emotion recognition (6). English translation\nA) (1)(2)(3)(4)\nB) (1)(2)(3)(4)(5)\nC) (1)(2)(3)(4)(6)\nD) (1)(2)(3)(4)(5)(6)",
+    "answer": "D: (1)(2)(3)(4)(5)(6)",
+    "learning_mat": "## SLIDE 1: What is AI and AI applications.\nTRANSCRIPT:\nAI is already applied in everyday life, used in social media face filters, [...].",
+    "topic": "What is AI and AI applications.",
     "stud_perf": [
       {
+        "s_id": 167,
         "accuracy": "correct",
-        "s_id": "STU001",
-        "choice": "Paris"
+        "choice": "D"
       },
       {
-        "accuracy": "incorrect",
-        "s_id": "STU002",
-        "choice": "London"
-      },
-      {
+        "s_id": 240,
         "accuracy": "correct",
-        "s_id": "STU003",
-        "choice": "Paris"
+        "choice": "D"
       }
     ]
   }
 ]
 ```
 
-**How to Run**
+**How to Run**:
+
+A sample of 5 questions from the EduAgent dataset (`sample_questions.json`) is provided under `datasets/raw`.
 
 ```bash
 cd datasets
-python3 preprocess_data.py --input_file /path/to/your/raw_questions.json --output_dir /path/to/your/output_folder
+python3 preprocess_data.py --input_file /path/to/your/sample_questions.json --output_dir /path/to/your/output_folder
 ```
 
 
