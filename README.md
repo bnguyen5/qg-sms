@@ -19,11 +19,13 @@ pip install -r requirements.txt
 
 ## Data Preprocessing (for evaluating QG-SMS)
 
-This step prepares your raw question data. It calculates key psychometric dimensions, including **difficulty**, **discrimination**, and **distractor efficiency**, then assembles question pairs that differ across these dimensions to test the performance of QG-SMS.
+This step prepares your raw question data. It calculates key psychometric dimensions, including **difficulty**, **discrimination**, and **distractor efficiency**, then assembles question pairs that differ across these dimensions to test the performance of QG-SMS. We experimented with two datasets below, but the pipeline can work with any dataset containing the requireds field below.
+- [EduaAgent (Xu et al. 2024)](https://github.com/EduAgent/EduAgent)
+- [DBE-KT (Abdelrahman et al. 2022)](https://dataverse.ada.edu.au/dataset.xhtml?persistentId=doi:10.26193/6DZWOH)
 
 **Input File Format:**
 
-Your input JSON file should be a **list of dictionaries**. Each dictionary represents a single question and **must** include the following top-level keys:
+Preprocess your dataset into the following JSON file as a **list of dictionaries**. Each dictionary represents a single question and **must** include the following top-level keys:
 
 * `q_id` (string/integer): A unique identifier for the question.
 * `learning_mat_id` (string/integer): An identifier for the associated learning material.
@@ -51,21 +53,21 @@ Your input JSON file should be a **list of dictionaries**. Each dictionary repre
       {
         "s_id": 167,
         "accuracy": "correct",
-        "choice": "D"
+        "choice": "D: (1)(2)(3)(4)(5)(6)"
       },
       {
-        "s_id": 240,
-        "accuracy": "correct",
-        "choice": "D"
+        "s_id": 243,
+        "accuracy": "incorrect",
+        "choice": "C: (1)(2)(3)(4)(6)"
       }
     ]
   }
 ]
 ```
+A sample of 5 questions from the EduAgent dataset (`sample_questions.json`) is provided under `datasets/raw`.
 
 **How to Run**:
 
-A sample of 5 questions from the EduAgent dataset (`sample_questions.json`) is provided under `datasets/raw`.
 
 ```bash
 cd datasets
