@@ -1,0 +1,1427 @@
+[
+  {
+    "q_id": "1_1",
+    "learning_mat_id": 0,
+    "q_text": "Which of the following could become the applications of AI: (1). Social media face filters (2). Facial recognition (3). Content recommendation (4). Language translation (5). Emotion recognition (6). English translation\nA) (1)(2)(3)(4)\nB) (1)(2)(3)(4)(5)\nC) (1)(2)(3)(4)(6)\nD) (1)(2)(3)(4)(5)(6)",
+    "answer": "D: (1)(2)(3)(4)(5)(6)",
+    "learning_mat": "## SLIDE 1: What is AI and AI applications.\nTRANSCRIPT:\nAI is already applied in everyday life, used in social media face filters, facial recognition, content recommendation, and language translating technology. For example, AI is used for social media face filters by identifying key points on a person's face, or face landmarks, such as the eyes, nose, and mouth. Once these points have been identified, the contours of the face can be pinpointed, and the filter can be applied onto the user's face.\n\nSLIDE CONTENT:\nA title named #What is Artificial Intelligence# and a subtitle named #Everyday Applications#. A text block whose contents are: #AI is already applied in everyday life: social media face filters, facial recognition, content recommendation, language translating#. A picture containing one smiling girl, a read bounding box around her head, her face mesh, and face landmark points on her face. A picture containing one smiling man who wears a pair of red glasses in the video. A picture containing one smiling man whose face is colored differently on different parts of the face mesh.\n\n## SLIDE 2: AI History.\nTRANSCRIPT:\nThe beginning of AI research dates back to the 1950s. Alan Turing, a notable computer scientist known for the breaking of the Enigma code in World War II, published a paper suggesting the testing of a \u201cthinking\u201d machine that could hold a conversation with a human as if it were just another person. Turing's papers and their discussion sparked the concept of artificial intelligence. While artificial intelligence was an exciting, futuristic concept in the 1950s, by the 1970s, AI research funding was cut due to many reports stating a lack of progress and success. The late 1970s became known as the first AI winter. The first AI winter ended in the early 1980s after several new developments. One of these developments was the US increasing funding for AI again. Japan had started a new fifth generation computer project and the US aimed to compete to become a world leader in computer science. Another development was the introduction of \u201cExpert Systems\u201d which was quickly utilized by large global corporations. The 1980s marked the end of the first AI winter with the promising introduction of Expert Systems. The Expert system operated within a clearly defined area of knowledge and followed strict logic rules. Even with such restrictions, these programs proved useful to corporations. However, despite the success of the Expert system, computer science experienced a second AI winter starting in 1987. Expert system computers were seen as slow, bulky, and not user friendly, and were becoming too expensive and difficult to update compared to the new desktop computer. As consumers no longer needed to buy an expensive machine specialized for running expert systems, this led to the collapse of the market for specialized AI hardware in 1987. Thus, an entire industry worth half a billion dollars was replaced in a single year. Research funding was once again cut. It wasn't until 1997 when IBM's Deep Blue defeated chess champion Garry Kasparov that the general public realized the power of AI. With the breakthrough in hardware equipment, the computer's processing power and storage capacity grew exponentially, enabling companies to store and process large amounts of data. Various companies and government agencies have successfully applied AI on a larger scale in different applications. This leads to a new round of growth in AI. The 2010s saw the rise of digital virtual assistants. Assistants like Alexa, Siri, and Google utilize natural language processing to act as a convenient source of information for users, doing many of the tasks a human assistant would. Virtual assistants like these are the future of AI. They are controlling autonomous cars and taking a physical form as a robot. Artificial intelligence has come a long way since Alan Turing's idea in a hypothetical paper, and it will continue into the future driving cars, walking around in everyday life, and more.\n\nSLIDE CONTENT:\nA title named #What is Artificial Intelligence# and a subtitle named #AI\\'s Development History#. An arrow pointing to a picture of Alan Turing. A text block whose contents are: #1950s: Alan Turing suggests the possibility of a thinking machine#. An arrow pointing to a picture, which shows that several AI experts are discussing in a conference in the first AI winter. A text block whose contents are: #1970s:Difficulties in AI progress and the first AI winter. #. An arrow pointing to a picture, which shows the intelligence of AI. A text block whose contents are: #1980s-1990s: Expert systems, followed by the second AI winter leading to SUCCESS!#. An arrow pointing to a picture, which shows the more advanced intelligence of AI. A text block whose contents are: #1990s-2000s: The development of machine learning.#. An arrow pointing to a picture, which shows a chat robot and a boy are talking. A text block whose contents are: #2010s: Digital virtual assistants and chat boxes.#. A timeline axis symbol from left to right to show AI History.\n\n## SLIDE 3: AI Definition and classification.\nTRANSCRIPT:\nArtificial Intelligence Definitions: But still, what is AI? AI usually does not have one explicit definition. However, it can be defined as a sector of computer science that allows computers to solve problems through making predictions and decisions. The sector of AI where AI currently is adopted in products is called machine learning, or ML. Machine learning teaches computers how to make problem-solving predictions and decisions by teaching them to learn from collected data. As seen in the diagram, artificial intelligence is a branch of computer science, and machine learning is a branch of artificial intelligence.\n\nSLIDE CONTENT:\nA title named #What is Artificial Intelligence# and a subtitle named #Definition#. A text block whose contents are: #Artificial intelligence: allows computers to solve problems through making predictions and decisions.#. A text block whose contents are: #Machine Learning: teaches computers how to solve problems by learning from collected data.#. A picture containing three layers of circles. The first layer outer circle is Computer Science, the second layer circle is Artificial Intelligence, the third layer inner circle is Machine Learning. The picture also shows that machine learning is the course focus.\n\n## SLIDE 4: Three ways of AI learning.\nTRANSCRIPT:\nAs our focus will be on machine learning, now let us have a look at this field in AI from a high level. Usually, machine learning problems and its related solutions can be divided into three categories. We will have a look at each category.\n\nSLIDE CONTENT:\nA title named # Lecture 1 # and a subtitle named # How AI Learns the World #. A text block whose contents are: # What is AI? #. A text block whose contents are: # Three Ways of Learning: Supervised Learning, Unsupervised Learning, Reinforcement Learning. #. A text block whose contents are: # Optimization. #.",
+    "topic": "What is AI and AI applications.",
+    "stud_perf": [
+      {
+        "s_id": 167,
+        "accuracy": "correct",
+        "choice": "D: (1)(2)(3)(4)(5)(6)"
+      },
+      {
+        "s_id": 240,
+        "accuracy": "correct",
+        "choice": "D: (1)(2)(3)(4)(5)(6)"
+      },
+      {
+        "s_id": 164,
+        "accuracy": "correct",
+        "choice": "D: (1)(2)(3)(4)(5)(6)"
+      },
+      {
+        "s_id": 142,
+        "accuracy": "correct",
+        "choice": "D: (1)(2)(3)(4)(5)(6)"
+      },
+      {
+        "s_id": 158,
+        "accuracy": "correct",
+        "choice": "D: (1)(2)(3)(4)(5)(6)"
+      },
+      {
+        "s_id": 209,
+        "accuracy": "correct",
+        "choice": "D: (1)(2)(3)(4)(5)(6)"
+      },
+      {
+        "s_id": 212,
+        "accuracy": "correct",
+        "choice": "D: (1)(2)(3)(4)(5)(6)"
+      },
+      {
+        "s_id": 234,
+        "accuracy": "correct",
+        "choice": "D: (1)(2)(3)(4)(5)(6)"
+      },
+      {
+        "s_id": 257,
+        "accuracy": "incorrect",
+        "choice": "B: (1)(2)(3)(4)(5)"
+      },
+      {
+        "s_id": 149,
+        "accuracy": "correct",
+        "choice": "D: (1)(2)(3)(4)(5)(6)"
+      },
+      {
+        "s_id": 165,
+        "accuracy": "correct",
+        "choice": "D: (1)(2)(3)(4)(5)(6)"
+      },
+      {
+        "s_id": 218,
+        "accuracy": "correct",
+        "choice": "D: (1)(2)(3)(4)(5)(6)"
+      },
+      {
+        "s_id": 219,
+        "accuracy": "correct",
+        "choice": "D: (1)(2)(3)(4)(5)(6)"
+      },
+      {
+        "s_id": 233,
+        "accuracy": "correct",
+        "choice": "D: (1)(2)(3)(4)(5)(6)"
+      },
+      {
+        "s_id": 146,
+        "accuracy": "incorrect",
+        "choice": "B: (1)(2)(3)(4)(5)"
+      },
+      {
+        "s_id": 213,
+        "accuracy": "correct",
+        "choice": "D: (1)(2)(3)(4)(5)(6)"
+      },
+      {
+        "s_id": 258,
+        "accuracy": "correct",
+        "choice": "D: (1)(2)(3)(4)(5)(6)"
+      },
+      {
+        "s_id": 201,
+        "accuracy": "correct",
+        "choice": "D: (1)(2)(3)(4)(5)(6)"
+      },
+      {
+        "s_id": 179,
+        "accuracy": "incorrect",
+        "choice": "A: (1)(2)(3)(4)"
+      },
+      {
+        "s_id": 181,
+        "accuracy": "correct",
+        "choice": "D: (1)(2)(3)(4)(5)(6)"
+      },
+      {
+        "s_id": 216,
+        "accuracy": "correct",
+        "choice": "D: (1)(2)(3)(4)(5)(6)"
+      },
+      {
+        "s_id": 245,
+        "accuracy": "correct",
+        "choice": "D: (1)(2)(3)(4)(5)(6)"
+      },
+      {
+        "s_id": 176,
+        "accuracy": "correct",
+        "choice": "D: (1)(2)(3)(4)(5)(6)"
+      },
+      {
+        "s_id": 228,
+        "accuracy": "correct",
+        "choice": "D: (1)(2)(3)(4)(5)(6)"
+      },
+      {
+        "s_id": 161,
+        "accuracy": "correct",
+        "choice": "D: (1)(2)(3)(4)(5)(6)"
+      },
+      {
+        "s_id": 202,
+        "accuracy": "correct",
+        "choice": "D: (1)(2)(3)(4)(5)(6)"
+      },
+      {
+        "s_id": 175,
+        "accuracy": "correct",
+        "choice": "D: (1)(2)(3)(4)(5)(6)"
+      },
+      {
+        "s_id": 230,
+        "accuracy": "correct",
+        "choice": "D: (1)(2)(3)(4)(5)(6)"
+      },
+      {
+        "s_id": 154,
+        "accuracy": "correct",
+        "choice": "D: (1)(2)(3)(4)(5)(6)"
+      },
+      {
+        "s_id": 163,
+        "accuracy": "incorrect",
+        "choice": "C: (1)(2)(3)(4)(6)"
+      },
+      {
+        "s_id": 204,
+        "accuracy": "correct",
+        "choice": "D: (1)(2)(3)(4)(5)(6)"
+      },
+      {
+        "s_id": 263,
+        "accuracy": "correct",
+        "choice": "D: (1)(2)(3)(4)(5)(6)"
+      },
+      {
+        "s_id": 200,
+        "accuracy": "correct",
+        "choice": "D: (1)(2)(3)(4)(5)(6)"
+      },
+      {
+        "s_id": 220,
+        "accuracy": "correct",
+        "choice": "D: (1)(2)(3)(4)(5)(6)"
+      },
+      {
+        "s_id": 191,
+        "accuracy": "incorrect",
+        "choice": "B: (1)(2)(3)(4)(5)"
+      },
+      {
+        "s_id": 208,
+        "accuracy": "correct",
+        "choice": "D: (1)(2)(3)(4)(5)(6)"
+      },
+      {
+        "s_id": 260,
+        "accuracy": "correct",
+        "choice": "D: (1)(2)(3)(4)(5)(6)"
+      },
+      {
+        "s_id": 207,
+        "accuracy": "correct",
+        "choice": "D: (1)(2)(3)(4)(5)(6)"
+      },
+      {
+        "s_id": 217,
+        "accuracy": "incorrect",
+        "choice": "C: (1)(2)(3)(4)(6)"
+      },
+      {
+        "s_id": 211,
+        "accuracy": "correct",
+        "choice": "D: (1)(2)(3)(4)(5)(6)"
+      },
+      {
+        "s_id": 186,
+        "accuracy": "correct",
+        "choice": "D: (1)(2)(3)(4)(5)(6)"
+      },
+      {
+        "s_id": 262,
+        "accuracy": "correct",
+        "choice": "D: (1)(2)(3)(4)(5)(6)"
+      },
+      {
+        "s_id": 256,
+        "accuracy": "correct",
+        "choice": "D: (1)(2)(3)(4)(5)(6)"
+      },
+      {
+        "s_id": 153,
+        "accuracy": "correct",
+        "choice": "D: (1)(2)(3)(4)(5)(6)"
+      },
+      {
+        "s_id": 178,
+        "accuracy": "incorrect",
+        "choice": "C: (1)(2)(3)(4)(6)"
+      },
+      {
+        "s_id": 203,
+        "accuracy": "correct",
+        "choice": "D: (1)(2)(3)(4)(5)(6)"
+      },
+      {
+        "s_id": 238,
+        "accuracy": "correct",
+        "choice": "D: (1)(2)(3)(4)(5)(6)"
+      },
+      {
+        "s_id": 241,
+        "accuracy": "correct",
+        "choice": "D: (1)(2)(3)(4)(5)(6)"
+      },
+      {
+        "s_id": 155,
+        "accuracy": "incorrect",
+        "choice": "B: (1)(2)(3)(4)(5)"
+      },
+      {
+        "s_id": 246,
+        "accuracy": "correct",
+        "choice": "D: (1)(2)(3)(4)(5)(6)"
+      },
+      {
+        "s_id": 160,
+        "accuracy": "correct",
+        "choice": "D: (1)(2)(3)(4)(5)(6)"
+      },
+      {
+        "s_id": 148,
+        "accuracy": "correct",
+        "choice": "D: (1)(2)(3)(4)(5)(6)"
+      },
+      {
+        "s_id": 140,
+        "accuracy": "incorrect",
+        "choice": "B: (1)(2)(3)(4)(5)"
+      },
+      {
+        "s_id": 136,
+        "accuracy": "correct",
+        "choice": "D: (1)(2)(3)(4)(5)(6)"
+      },
+      {
+        "s_id": 244,
+        "accuracy": "incorrect",
+        "choice": "B: (1)(2)(3)(4)(5)"
+      }
+    ]
+  },
+  {
+    "q_id": "1_2",
+    "learning_mat_id": 0,
+    "q_text": "AI is used in social media face filters by identifying [  ] on the person\u2019s face.\nA) eyes\nB) key points\nC) key lines\nD) key shapes",
+    "answer": "B: key points",
+    "learning_mat": "## SLIDE 1: What is AI and AI applications.\nTRANSCRIPT:\nAI is already applied in everyday life, used in social media face filters, facial recognition, content recommendation, and language translating technology. For example, AI is used for social media face filters by identifying key points on a person's face, or face landmarks, such as the eyes, nose, and mouth. Once these points have been identified, the contours of the face can be pinpointed, and the filter can be applied onto the user's face.\n\nSLIDE CONTENT:\nA title named #What is Artificial Intelligence# and a subtitle named #Everyday Applications#. A text block whose contents are: #AI is already applied in everyday life: social media face filters, facial recognition, content recommendation, language translating#. A picture containing one smiling girl, a read bounding box around her head, her face mesh, and face landmark points on her face. A picture containing one smiling man who wears a pair of red glasses in the video. A picture containing one smiling man whose face is colored differently on different parts of the face mesh.\n\n## SLIDE 2: AI History.\nTRANSCRIPT:\nThe beginning of AI research dates back to the 1950s. Alan Turing, a notable computer scientist known for the breaking of the Enigma code in World War II, published a paper suggesting the testing of a \u201cthinking\u201d machine that could hold a conversation with a human as if it were just another person. Turing's papers and their discussion sparked the concept of artificial intelligence. While artificial intelligence was an exciting, futuristic concept in the 1950s, by the 1970s, AI research funding was cut due to many reports stating a lack of progress and success. The late 1970s became known as the first AI winter. The first AI winter ended in the early 1980s after several new developments. One of these developments was the US increasing funding for AI again. Japan had started a new fifth generation computer project and the US aimed to compete to become a world leader in computer science. Another development was the introduction of \u201cExpert Systems\u201d which was quickly utilized by large global corporations. The 1980s marked the end of the first AI winter with the promising introduction of Expert Systems. The Expert system operated within a clearly defined area of knowledge and followed strict logic rules. Even with such restrictions, these programs proved useful to corporations. However, despite the success of the Expert system, computer science experienced a second AI winter starting in 1987. Expert system computers were seen as slow, bulky, and not user friendly, and were becoming too expensive and difficult to update compared to the new desktop computer. As consumers no longer needed to buy an expensive machine specialized for running expert systems, this led to the collapse of the market for specialized AI hardware in 1987. Thus, an entire industry worth half a billion dollars was replaced in a single year. Research funding was once again cut. It wasn't until 1997 when IBM's Deep Blue defeated chess champion Garry Kasparov that the general public realized the power of AI. With the breakthrough in hardware equipment, the computer's processing power and storage capacity grew exponentially, enabling companies to store and process large amounts of data. Various companies and government agencies have successfully applied AI on a larger scale in different applications. This leads to a new round of growth in AI. The 2010s saw the rise of digital virtual assistants. Assistants like Alexa, Siri, and Google utilize natural language processing to act as a convenient source of information for users, doing many of the tasks a human assistant would. Virtual assistants like these are the future of AI. They are controlling autonomous cars and taking a physical form as a robot. Artificial intelligence has come a long way since Alan Turing's idea in a hypothetical paper, and it will continue into the future driving cars, walking around in everyday life, and more.\n\nSLIDE CONTENT:\nA title named #What is Artificial Intelligence# and a subtitle named #AI\\'s Development History#. An arrow pointing to a picture of Alan Turing. A text block whose contents are: #1950s: Alan Turing suggests the possibility of a thinking machine#. An arrow pointing to a picture, which shows that several AI experts are discussing in a conference in the first AI winter. A text block whose contents are: #1970s:Difficulties in AI progress and the first AI winter. #. An arrow pointing to a picture, which shows the intelligence of AI. A text block whose contents are: #1980s-1990s: Expert systems, followed by the second AI winter leading to SUCCESS!#. An arrow pointing to a picture, which shows the more advanced intelligence of AI. A text block whose contents are: #1990s-2000s: The development of machine learning.#. An arrow pointing to a picture, which shows a chat robot and a boy are talking. A text block whose contents are: #2010s: Digital virtual assistants and chat boxes.#. A timeline axis symbol from left to right to show AI History.\n\n## SLIDE 3: AI Definition and classification.\nTRANSCRIPT:\nArtificial Intelligence Definitions: But still, what is AI? AI usually does not have one explicit definition. However, it can be defined as a sector of computer science that allows computers to solve problems through making predictions and decisions. The sector of AI where AI currently is adopted in products is called machine learning, or ML. Machine learning teaches computers how to make problem-solving predictions and decisions by teaching them to learn from collected data. As seen in the diagram, artificial intelligence is a branch of computer science, and machine learning is a branch of artificial intelligence.\n\nSLIDE CONTENT:\nA title named #What is Artificial Intelligence# and a subtitle named #Definition#. A text block whose contents are: #Artificial intelligence: allows computers to solve problems through making predictions and decisions.#. A text block whose contents are: #Machine Learning: teaches computers how to solve problems by learning from collected data.#. A picture containing three layers of circles. The first layer outer circle is Computer Science, the second layer circle is Artificial Intelligence, the third layer inner circle is Machine Learning. The picture also shows that machine learning is the course focus.\n\n## SLIDE 4: Three ways of AI learning.\nTRANSCRIPT:\nAs our focus will be on machine learning, now let us have a look at this field in AI from a high level. Usually, machine learning problems and its related solutions can be divided into three categories. We will have a look at each category.\n\nSLIDE CONTENT:\nA title named # Lecture 1 # and a subtitle named # How AI Learns the World #. A text block whose contents are: # What is AI? #. A text block whose contents are: # Three Ways of Learning: Supervised Learning, Unsupervised Learning, Reinforcement Learning. #. A text block whose contents are: # Optimization. #.",
+    "topic": "What is AI and AI applications.",
+    "stud_perf": [
+      {
+        "s_id": 167,
+        "accuracy": "correct",
+        "choice": "B: key points"
+      },
+      {
+        "s_id": 240,
+        "accuracy": "correct",
+        "choice": "B: key points"
+      },
+      {
+        "s_id": 164,
+        "accuracy": "correct",
+        "choice": "B: key points"
+      },
+      {
+        "s_id": 142,
+        "accuracy": "correct",
+        "choice": "B: key points"
+      },
+      {
+        "s_id": 158,
+        "accuracy": "correct",
+        "choice": "B: key points"
+      },
+      {
+        "s_id": 209,
+        "accuracy": "correct",
+        "choice": "B: key points"
+      },
+      {
+        "s_id": 212,
+        "accuracy": "correct",
+        "choice": "B: key points"
+      },
+      {
+        "s_id": 234,
+        "accuracy": "incorrect",
+        "choice": "C: key lines"
+      },
+      {
+        "s_id": 257,
+        "accuracy": "correct",
+        "choice": "B: key points"
+      },
+      {
+        "s_id": 149,
+        "accuracy": "correct",
+        "choice": "B: key points"
+      },
+      {
+        "s_id": 165,
+        "accuracy": "correct",
+        "choice": "B: key points"
+      },
+      {
+        "s_id": 218,
+        "accuracy": "correct",
+        "choice": "B: key points"
+      },
+      {
+        "s_id": 219,
+        "accuracy": "correct",
+        "choice": "B: key points"
+      },
+      {
+        "s_id": 233,
+        "accuracy": "correct",
+        "choice": "B: key points"
+      },
+      {
+        "s_id": 146,
+        "accuracy": "correct",
+        "choice": "B: key points"
+      },
+      {
+        "s_id": 213,
+        "accuracy": "correct",
+        "choice": "B: key points"
+      },
+      {
+        "s_id": 258,
+        "accuracy": "correct",
+        "choice": "B: key points"
+      },
+      {
+        "s_id": 201,
+        "accuracy": "correct",
+        "choice": "B: key points"
+      },
+      {
+        "s_id": 179,
+        "accuracy": "correct",
+        "choice": "B: key points"
+      },
+      {
+        "s_id": 181,
+        "accuracy": "correct",
+        "choice": "B: key points"
+      },
+      {
+        "s_id": 216,
+        "accuracy": "correct",
+        "choice": "B: key points"
+      },
+      {
+        "s_id": 245,
+        "accuracy": "correct",
+        "choice": "B: key points"
+      },
+      {
+        "s_id": 176,
+        "accuracy": "correct",
+        "choice": "B: key points"
+      },
+      {
+        "s_id": 228,
+        "accuracy": "correct",
+        "choice": "B: key points"
+      },
+      {
+        "s_id": 161,
+        "accuracy": "correct",
+        "choice": "B: key points"
+      },
+      {
+        "s_id": 202,
+        "accuracy": "correct",
+        "choice": "B: key points"
+      },
+      {
+        "s_id": 175,
+        "accuracy": "correct",
+        "choice": "B: key points"
+      },
+      {
+        "s_id": 230,
+        "accuracy": "incorrect",
+        "choice": "D: key shapes"
+      },
+      {
+        "s_id": 154,
+        "accuracy": "correct",
+        "choice": "B: key points"
+      },
+      {
+        "s_id": 163,
+        "accuracy": "correct",
+        "choice": "B: key points"
+      },
+      {
+        "s_id": 204,
+        "accuracy": "correct",
+        "choice": "B: key points"
+      },
+      {
+        "s_id": 263,
+        "accuracy": "correct",
+        "choice": "B: key points"
+      },
+      {
+        "s_id": 200,
+        "accuracy": "correct",
+        "choice": "B: key points"
+      },
+      {
+        "s_id": 220,
+        "accuracy": "correct",
+        "choice": "B: key points"
+      },
+      {
+        "s_id": 191,
+        "accuracy": "correct",
+        "choice": "B: key points"
+      },
+      {
+        "s_id": 208,
+        "accuracy": "correct",
+        "choice": "B: key points"
+      },
+      {
+        "s_id": 260,
+        "accuracy": "correct",
+        "choice": "B: key points"
+      },
+      {
+        "s_id": 207,
+        "accuracy": "correct",
+        "choice": "B: key points"
+      },
+      {
+        "s_id": 217,
+        "accuracy": "correct",
+        "choice": "B: key points"
+      },
+      {
+        "s_id": 211,
+        "accuracy": "correct",
+        "choice": "B: key points"
+      },
+      {
+        "s_id": 186,
+        "accuracy": "correct",
+        "choice": "B: key points"
+      },
+      {
+        "s_id": 262,
+        "accuracy": "correct",
+        "choice": "B: key points"
+      },
+      {
+        "s_id": 256,
+        "accuracy": "correct",
+        "choice": "B: key points"
+      },
+      {
+        "s_id": 153,
+        "accuracy": "correct",
+        "choice": "B: key points"
+      },
+      {
+        "s_id": 178,
+        "accuracy": "correct",
+        "choice": "B: key points"
+      },
+      {
+        "s_id": 203,
+        "accuracy": "incorrect",
+        "choice": "D: key shapes"
+      },
+      {
+        "s_id": 238,
+        "accuracy": "correct",
+        "choice": "B: key points"
+      },
+      {
+        "s_id": 241,
+        "accuracy": "correct",
+        "choice": "B: key points"
+      },
+      {
+        "s_id": 155,
+        "accuracy": "correct",
+        "choice": "B: key points"
+      },
+      {
+        "s_id": 246,
+        "accuracy": "incorrect",
+        "choice": "C: key lines"
+      },
+      {
+        "s_id": 160,
+        "accuracy": "incorrect",
+        "choice": "D: key shapes"
+      },
+      {
+        "s_id": 148,
+        "accuracy": "incorrect",
+        "choice": "A: eyes"
+      },
+      {
+        "s_id": 140,
+        "accuracy": "incorrect",
+        "choice": "D: key shapes"
+      },
+      {
+        "s_id": 136,
+        "accuracy": "correct",
+        "choice": "B: key points"
+      },
+      {
+        "s_id": 244,
+        "accuracy": "correct",
+        "choice": "B: key points"
+      }
+    ]
+  },
+  {
+    "q_id": "1_3",
+    "learning_mat_id": 0,
+    "q_text": "In the 1950s, [    ] suggests the possibility of a \u201cthinking machine\u201d.\nA) Yann LeCun\nB) Geoffrey Hinton\nC) Alan Turing\nD) Yoshua Bengio",
+    "answer": "C: Alan Turing",
+    "learning_mat": "## SLIDE 1: What is AI and AI applications.\nTRANSCRIPT:\nAI is already applied in everyday life, used in social media face filters, facial recognition, content recommendation, and language translating technology. For example, AI is used for social media face filters by identifying key points on a person's face, or face landmarks, such as the eyes, nose, and mouth. Once these points have been identified, the contours of the face can be pinpointed, and the filter can be applied onto the user's face.\n\nSLIDE CONTENT:\nA title named #What is Artificial Intelligence# and a subtitle named #Everyday Applications#. A text block whose contents are: #AI is already applied in everyday life: social media face filters, facial recognition, content recommendation, language translating#. A picture containing one smiling girl, a read bounding box around her head, her face mesh, and face landmark points on her face. A picture containing one smiling man who wears a pair of red glasses in the video. A picture containing one smiling man whose face is colored differently on different parts of the face mesh.\n\n## SLIDE 2: AI History.\nTRANSCRIPT:\nThe beginning of AI research dates back to the 1950s. Alan Turing, a notable computer scientist known for the breaking of the Enigma code in World War II, published a paper suggesting the testing of a \u201cthinking\u201d machine that could hold a conversation with a human as if it were just another person. Turing's papers and their discussion sparked the concept of artificial intelligence. While artificial intelligence was an exciting, futuristic concept in the 1950s, by the 1970s, AI research funding was cut due to many reports stating a lack of progress and success. The late 1970s became known as the first AI winter. The first AI winter ended in the early 1980s after several new developments. One of these developments was the US increasing funding for AI again. Japan had started a new fifth generation computer project and the US aimed to compete to become a world leader in computer science. Another development was the introduction of \u201cExpert Systems\u201d which was quickly utilized by large global corporations. The 1980s marked the end of the first AI winter with the promising introduction of Expert Systems. The Expert system operated within a clearly defined area of knowledge and followed strict logic rules. Even with such restrictions, these programs proved useful to corporations. However, despite the success of the Expert system, computer science experienced a second AI winter starting in 1987. Expert system computers were seen as slow, bulky, and not user friendly, and were becoming too expensive and difficult to update compared to the new desktop computer. As consumers no longer needed to buy an expensive machine specialized for running expert systems, this led to the collapse of the market for specialized AI hardware in 1987. Thus, an entire industry worth half a billion dollars was replaced in a single year. Research funding was once again cut. It wasn't until 1997 when IBM's Deep Blue defeated chess champion Garry Kasparov that the general public realized the power of AI. With the breakthrough in hardware equipment, the computer's processing power and storage capacity grew exponentially, enabling companies to store and process large amounts of data. Various companies and government agencies have successfully applied AI on a larger scale in different applications. This leads to a new round of growth in AI. The 2010s saw the rise of digital virtual assistants. Assistants like Alexa, Siri, and Google utilize natural language processing to act as a convenient source of information for users, doing many of the tasks a human assistant would. Virtual assistants like these are the future of AI. They are controlling autonomous cars and taking a physical form as a robot. Artificial intelligence has come a long way since Alan Turing's idea in a hypothetical paper, and it will continue into the future driving cars, walking around in everyday life, and more.\n\nSLIDE CONTENT:\nA title named #What is Artificial Intelligence# and a subtitle named #AI\\'s Development History#. An arrow pointing to a picture of Alan Turing. A text block whose contents are: #1950s: Alan Turing suggests the possibility of a thinking machine#. An arrow pointing to a picture, which shows that several AI experts are discussing in a conference in the first AI winter. A text block whose contents are: #1970s:Difficulties in AI progress and the first AI winter. #. An arrow pointing to a picture, which shows the intelligence of AI. A text block whose contents are: #1980s-1990s: Expert systems, followed by the second AI winter leading to SUCCESS!#. An arrow pointing to a picture, which shows the more advanced intelligence of AI. A text block whose contents are: #1990s-2000s: The development of machine learning.#. An arrow pointing to a picture, which shows a chat robot and a boy are talking. A text block whose contents are: #2010s: Digital virtual assistants and chat boxes.#. A timeline axis symbol from left to right to show AI History.\n\n## SLIDE 3: AI Definition and classification.\nTRANSCRIPT:\nArtificial Intelligence Definitions: But still, what is AI? AI usually does not have one explicit definition. However, it can be defined as a sector of computer science that allows computers to solve problems through making predictions and decisions. The sector of AI where AI currently is adopted in products is called machine learning, or ML. Machine learning teaches computers how to make problem-solving predictions and decisions by teaching them to learn from collected data. As seen in the diagram, artificial intelligence is a branch of computer science, and machine learning is a branch of artificial intelligence.\n\nSLIDE CONTENT:\nA title named #What is Artificial Intelligence# and a subtitle named #Definition#. A text block whose contents are: #Artificial intelligence: allows computers to solve problems through making predictions and decisions.#. A text block whose contents are: #Machine Learning: teaches computers how to solve problems by learning from collected data.#. A picture containing three layers of circles. The first layer outer circle is Computer Science, the second layer circle is Artificial Intelligence, the third layer inner circle is Machine Learning. The picture also shows that machine learning is the course focus.\n\n## SLIDE 4: Three ways of AI learning.\nTRANSCRIPT:\nAs our focus will be on machine learning, now let us have a look at this field in AI from a high level. Usually, machine learning problems and its related solutions can be divided into three categories. We will have a look at each category.\n\nSLIDE CONTENT:\nA title named # Lecture 1 # and a subtitle named # How AI Learns the World #. A text block whose contents are: # What is AI? #. A text block whose contents are: # Three Ways of Learning: Supervised Learning, Unsupervised Learning, Reinforcement Learning. #. A text block whose contents are: # Optimization. #.",
+    "topic": "AI History.",
+    "stud_perf": [
+      {
+        "s_id": 167,
+        "accuracy": "correct",
+        "choice": "C: Alan Turing"
+      },
+      {
+        "s_id": 240,
+        "accuracy": "correct",
+        "choice": "C: Alan Turing"
+      },
+      {
+        "s_id": 164,
+        "accuracy": "correct",
+        "choice": "C: Alan Turing"
+      },
+      {
+        "s_id": 142,
+        "accuracy": "correct",
+        "choice": "C: Alan Turing"
+      },
+      {
+        "s_id": 158,
+        "accuracy": "correct",
+        "choice": "C: Alan Turing"
+      },
+      {
+        "s_id": 209,
+        "accuracy": "correct",
+        "choice": "C: Alan Turing"
+      },
+      {
+        "s_id": 212,
+        "accuracy": "correct",
+        "choice": "C: Alan Turing"
+      },
+      {
+        "s_id": 234,
+        "accuracy": "correct",
+        "choice": "C: Alan Turing"
+      },
+      {
+        "s_id": 257,
+        "accuracy": "correct",
+        "choice": "C: Alan Turing"
+      },
+      {
+        "s_id": 149,
+        "accuracy": "correct",
+        "choice": "C: Alan Turing"
+      },
+      {
+        "s_id": 165,
+        "accuracy": "correct",
+        "choice": "C: Alan Turing"
+      },
+      {
+        "s_id": 218,
+        "accuracy": "correct",
+        "choice": "C: Alan Turing"
+      },
+      {
+        "s_id": 219,
+        "accuracy": "correct",
+        "choice": "C: Alan Turing"
+      },
+      {
+        "s_id": 233,
+        "accuracy": "correct",
+        "choice": "C: Alan Turing"
+      },
+      {
+        "s_id": 146,
+        "accuracy": "correct",
+        "choice": "C: Alan Turing"
+      },
+      {
+        "s_id": 213,
+        "accuracy": "correct",
+        "choice": "C: Alan Turing"
+      },
+      {
+        "s_id": 258,
+        "accuracy": "correct",
+        "choice": "C: Alan Turing"
+      },
+      {
+        "s_id": 201,
+        "accuracy": "correct",
+        "choice": "C: Alan Turing"
+      },
+      {
+        "s_id": 179,
+        "accuracy": "correct",
+        "choice": "C: Alan Turing"
+      },
+      {
+        "s_id": 181,
+        "accuracy": "correct",
+        "choice": "C: Alan Turing"
+      },
+      {
+        "s_id": 216,
+        "accuracy": "correct",
+        "choice": "C: Alan Turing"
+      },
+      {
+        "s_id": 245,
+        "accuracy": "correct",
+        "choice": "C: Alan Turing"
+      },
+      {
+        "s_id": 176,
+        "accuracy": "correct",
+        "choice": "C: Alan Turing"
+      },
+      {
+        "s_id": 228,
+        "accuracy": "correct",
+        "choice": "C: Alan Turing"
+      },
+      {
+        "s_id": 161,
+        "accuracy": "correct",
+        "choice": "C: Alan Turing"
+      },
+      {
+        "s_id": 202,
+        "accuracy": "correct",
+        "choice": "C: Alan Turing"
+      },
+      {
+        "s_id": 175,
+        "accuracy": "correct",
+        "choice": "C: Alan Turing"
+      },
+      {
+        "s_id": 230,
+        "accuracy": "correct",
+        "choice": "C: Alan Turing"
+      },
+      {
+        "s_id": 154,
+        "accuracy": "correct",
+        "choice": "C: Alan Turing"
+      },
+      {
+        "s_id": 163,
+        "accuracy": "correct",
+        "choice": "C: Alan Turing"
+      },
+      {
+        "s_id": 204,
+        "accuracy": "correct",
+        "choice": "C: Alan Turing"
+      },
+      {
+        "s_id": 263,
+        "accuracy": "correct",
+        "choice": "C: Alan Turing"
+      },
+      {
+        "s_id": 200,
+        "accuracy": "correct",
+        "choice": "C: Alan Turing"
+      },
+      {
+        "s_id": 220,
+        "accuracy": "correct",
+        "choice": "C: Alan Turing"
+      },
+      {
+        "s_id": 191,
+        "accuracy": "correct",
+        "choice": "C: Alan Turing"
+      },
+      {
+        "s_id": 208,
+        "accuracy": "correct",
+        "choice": "C: Alan Turing"
+      },
+      {
+        "s_id": 260,
+        "accuracy": "correct",
+        "choice": "C: Alan Turing"
+      },
+      {
+        "s_id": 207,
+        "accuracy": "correct",
+        "choice": "C: Alan Turing"
+      },
+      {
+        "s_id": 217,
+        "accuracy": "correct",
+        "choice": "C: Alan Turing"
+      },
+      {
+        "s_id": 211,
+        "accuracy": "correct",
+        "choice": "C: Alan Turing"
+      },
+      {
+        "s_id": 186,
+        "accuracy": "correct",
+        "choice": "C: Alan Turing"
+      },
+      {
+        "s_id": 262,
+        "accuracy": "correct",
+        "choice": "C: Alan Turing"
+      },
+      {
+        "s_id": 256,
+        "accuracy": "correct",
+        "choice": "C: Alan Turing"
+      },
+      {
+        "s_id": 153,
+        "accuracy": "correct",
+        "choice": "C: Alan Turing"
+      },
+      {
+        "s_id": 178,
+        "accuracy": "correct",
+        "choice": "C: Alan Turing"
+      },
+      {
+        "s_id": 203,
+        "accuracy": "correct",
+        "choice": "C: Alan Turing"
+      },
+      {
+        "s_id": 238,
+        "accuracy": "correct",
+        "choice": "C: Alan Turing"
+      },
+      {
+        "s_id": 241,
+        "accuracy": "correct",
+        "choice": "C: Alan Turing"
+      },
+      {
+        "s_id": 155,
+        "accuracy": "correct",
+        "choice": "C: Alan Turing"
+      },
+      {
+        "s_id": 246,
+        "accuracy": "correct",
+        "choice": "C: Alan Turing"
+      },
+      {
+        "s_id": 160,
+        "accuracy": "correct",
+        "choice": "C: Alan Turing"
+      },
+      {
+        "s_id": 148,
+        "accuracy": "correct",
+        "choice": "C: Alan Turing"
+      },
+      {
+        "s_id": 140,
+        "accuracy": "correct",
+        "choice": "C: Alan Turing"
+      },
+      {
+        "s_id": 136,
+        "accuracy": "correct",
+        "choice": "C: Alan Turing"
+      },
+      {
+        "s_id": 244,
+        "accuracy": "correct",
+        "choice": "C: Alan Turing"
+      }
+    ]
+  },
+  {
+    "q_id": "1_4",
+    "learning_mat_id": 0,
+    "q_text": "How many AI winters from 1950s to 2010s (60 years)\nA) 2\nB) 3\nC) 4\nD) 5",
+    "answer": "A: 2",
+    "learning_mat": "## SLIDE 1: What is AI and AI applications.\nTRANSCRIPT:\nAI is already applied in everyday life, used in social media face filters, facial recognition, content recommendation, and language translating technology. For example, AI is used for social media face filters by identifying key points on a person's face, or face landmarks, such as the eyes, nose, and mouth. Once these points have been identified, the contours of the face can be pinpointed, and the filter can be applied onto the user's face.\n\nSLIDE CONTENT:\nA title named #What is Artificial Intelligence# and a subtitle named #Everyday Applications#. A text block whose contents are: #AI is already applied in everyday life: social media face filters, facial recognition, content recommendation, language translating#. A picture containing one smiling girl, a read bounding box around her head, her face mesh, and face landmark points on her face. A picture containing one smiling man who wears a pair of red glasses in the video. A picture containing one smiling man whose face is colored differently on different parts of the face mesh.\n\n## SLIDE 2: AI History.\nTRANSCRIPT:\nThe beginning of AI research dates back to the 1950s. Alan Turing, a notable computer scientist known for the breaking of the Enigma code in World War II, published a paper suggesting the testing of a \u201cthinking\u201d machine that could hold a conversation with a human as if it were just another person. Turing's papers and their discussion sparked the concept of artificial intelligence. While artificial intelligence was an exciting, futuristic concept in the 1950s, by the 1970s, AI research funding was cut due to many reports stating a lack of progress and success. The late 1970s became known as the first AI winter. The first AI winter ended in the early 1980s after several new developments. One of these developments was the US increasing funding for AI again. Japan had started a new fifth generation computer project and the US aimed to compete to become a world leader in computer science. Another development was the introduction of \u201cExpert Systems\u201d which was quickly utilized by large global corporations. The 1980s marked the end of the first AI winter with the promising introduction of Expert Systems. The Expert system operated within a clearly defined area of knowledge and followed strict logic rules. Even with such restrictions, these programs proved useful to corporations. However, despite the success of the Expert system, computer science experienced a second AI winter starting in 1987. Expert system computers were seen as slow, bulky, and not user friendly, and were becoming too expensive and difficult to update compared to the new desktop computer. As consumers no longer needed to buy an expensive machine specialized for running expert systems, this led to the collapse of the market for specialized AI hardware in 1987. Thus, an entire industry worth half a billion dollars was replaced in a single year. Research funding was once again cut. It wasn't until 1997 when IBM's Deep Blue defeated chess champion Garry Kasparov that the general public realized the power of AI. With the breakthrough in hardware equipment, the computer's processing power and storage capacity grew exponentially, enabling companies to store and process large amounts of data. Various companies and government agencies have successfully applied AI on a larger scale in different applications. This leads to a new round of growth in AI. The 2010s saw the rise of digital virtual assistants. Assistants like Alexa, Siri, and Google utilize natural language processing to act as a convenient source of information for users, doing many of the tasks a human assistant would. Virtual assistants like these are the future of AI. They are controlling autonomous cars and taking a physical form as a robot. Artificial intelligence has come a long way since Alan Turing's idea in a hypothetical paper, and it will continue into the future driving cars, walking around in everyday life, and more.\n\nSLIDE CONTENT:\nA title named #What is Artificial Intelligence# and a subtitle named #AI\\'s Development History#. An arrow pointing to a picture of Alan Turing. A text block whose contents are: #1950s: Alan Turing suggests the possibility of a thinking machine#. An arrow pointing to a picture, which shows that several AI experts are discussing in a conference in the first AI winter. A text block whose contents are: #1970s:Difficulties in AI progress and the first AI winter. #. An arrow pointing to a picture, which shows the intelligence of AI. A text block whose contents are: #1980s-1990s: Expert systems, followed by the second AI winter leading to SUCCESS!#. An arrow pointing to a picture, which shows the more advanced intelligence of AI. A text block whose contents are: #1990s-2000s: The development of machine learning.#. An arrow pointing to a picture, which shows a chat robot and a boy are talking. A text block whose contents are: #2010s: Digital virtual assistants and chat boxes.#. A timeline axis symbol from left to right to show AI History.\n\n## SLIDE 3: AI Definition and classification.\nTRANSCRIPT:\nArtificial Intelligence Definitions: But still, what is AI? AI usually does not have one explicit definition. However, it can be defined as a sector of computer science that allows computers to solve problems through making predictions and decisions. The sector of AI where AI currently is adopted in products is called machine learning, or ML. Machine learning teaches computers how to make problem-solving predictions and decisions by teaching them to learn from collected data. As seen in the diagram, artificial intelligence is a branch of computer science, and machine learning is a branch of artificial intelligence.\n\nSLIDE CONTENT:\nA title named #What is Artificial Intelligence# and a subtitle named #Definition#. A text block whose contents are: #Artificial intelligence: allows computers to solve problems through making predictions and decisions.#. A text block whose contents are: #Machine Learning: teaches computers how to solve problems by learning from collected data.#. A picture containing three layers of circles. The first layer outer circle is Computer Science, the second layer circle is Artificial Intelligence, the third layer inner circle is Machine Learning. The picture also shows that machine learning is the course focus.\n\n## SLIDE 4: Three ways of AI learning.\nTRANSCRIPT:\nAs our focus will be on machine learning, now let us have a look at this field in AI from a high level. Usually, machine learning problems and its related solutions can be divided into three categories. We will have a look at each category.\n\nSLIDE CONTENT:\nA title named # Lecture 1 # and a subtitle named # How AI Learns the World #. A text block whose contents are: # What is AI? #. A text block whose contents are: # Three Ways of Learning: Supervised Learning, Unsupervised Learning, Reinforcement Learning. #. A text block whose contents are: # Optimization. #.",
+    "topic": "AI History.",
+    "stud_perf": [
+      {
+        "s_id": 167,
+        "accuracy": "correct",
+        "choice": "A: 2"
+      },
+      {
+        "s_id": 240,
+        "accuracy": "correct",
+        "choice": "A: 2"
+      },
+      {
+        "s_id": 164,
+        "accuracy": "correct",
+        "choice": "A: 2"
+      },
+      {
+        "s_id": 142,
+        "accuracy": "correct",
+        "choice": "A: 2"
+      },
+      {
+        "s_id": 158,
+        "accuracy": "correct",
+        "choice": "A: 2"
+      },
+      {
+        "s_id": 209,
+        "accuracy": "correct",
+        "choice": "A: 2"
+      },
+      {
+        "s_id": 212,
+        "accuracy": "correct",
+        "choice": "A: 2"
+      },
+      {
+        "s_id": 234,
+        "accuracy": "correct",
+        "choice": "A: 2"
+      },
+      {
+        "s_id": 257,
+        "accuracy": "correct",
+        "choice": "A: 2"
+      },
+      {
+        "s_id": 149,
+        "accuracy": "correct",
+        "choice": "A: 2"
+      },
+      {
+        "s_id": 165,
+        "accuracy": "correct",
+        "choice": "A: 2"
+      },
+      {
+        "s_id": 218,
+        "accuracy": "correct",
+        "choice": "A: 2"
+      },
+      {
+        "s_id": 219,
+        "accuracy": "correct",
+        "choice": "A: 2"
+      },
+      {
+        "s_id": 233,
+        "accuracy": "correct",
+        "choice": "A: 2"
+      },
+      {
+        "s_id": 146,
+        "accuracy": "correct",
+        "choice": "A: 2"
+      },
+      {
+        "s_id": 213,
+        "accuracy": "incorrect",
+        "choice": "B: 3"
+      },
+      {
+        "s_id": 258,
+        "accuracy": "correct",
+        "choice": "A: 2"
+      },
+      {
+        "s_id": 201,
+        "accuracy": "correct",
+        "choice": "A: 2"
+      },
+      {
+        "s_id": 179,
+        "accuracy": "incorrect",
+        "choice": "C: 4"
+      },
+      {
+        "s_id": 181,
+        "accuracy": "incorrect",
+        "choice": "B: 3"
+      },
+      {
+        "s_id": 216,
+        "accuracy": "correct",
+        "choice": "A: 2"
+      },
+      {
+        "s_id": 245,
+        "accuracy": "incorrect",
+        "choice": "B: 3"
+      },
+      {
+        "s_id": 176,
+        "accuracy": "incorrect",
+        "choice": "B: 3"
+      },
+      {
+        "s_id": 228,
+        "accuracy": "correct",
+        "choice": "A: 2"
+      },
+      {
+        "s_id": 161,
+        "accuracy": "correct",
+        "choice": "A: 2"
+      },
+      {
+        "s_id": 202,
+        "accuracy": "correct",
+        "choice": "A: 2"
+      },
+      {
+        "s_id": 175,
+        "accuracy": "correct",
+        "choice": "A: 2"
+      },
+      {
+        "s_id": 230,
+        "accuracy": "correct",
+        "choice": "A: 2"
+      },
+      {
+        "s_id": 154,
+        "accuracy": "correct",
+        "choice": "A: 2"
+      },
+      {
+        "s_id": 163,
+        "accuracy": "correct",
+        "choice": "A: 2"
+      },
+      {
+        "s_id": 204,
+        "accuracy": "incorrect",
+        "choice": "B: 3"
+      },
+      {
+        "s_id": 263,
+        "accuracy": "correct",
+        "choice": "A: 2"
+      },
+      {
+        "s_id": 200,
+        "accuracy": "incorrect",
+        "choice": "B: 3"
+      },
+      {
+        "s_id": 220,
+        "accuracy": "correct",
+        "choice": "A: 2"
+      },
+      {
+        "s_id": 191,
+        "accuracy": "correct",
+        "choice": "A: 2"
+      },
+      {
+        "s_id": 208,
+        "accuracy": "correct",
+        "choice": "A: 2"
+      },
+      {
+        "s_id": 260,
+        "accuracy": "correct",
+        "choice": "A: 2"
+      },
+      {
+        "s_id": 207,
+        "accuracy": "correct",
+        "choice": "A: 2"
+      },
+      {
+        "s_id": 217,
+        "accuracy": "correct",
+        "choice": "A: 2"
+      },
+      {
+        "s_id": 211,
+        "accuracy": "correct",
+        "choice": "A: 2"
+      },
+      {
+        "s_id": 186,
+        "accuracy": "correct",
+        "choice": "A: 2"
+      },
+      {
+        "s_id": 262,
+        "accuracy": "correct",
+        "choice": "A: 2"
+      },
+      {
+        "s_id": 256,
+        "accuracy": "incorrect",
+        "choice": "C: 4"
+      },
+      {
+        "s_id": 153,
+        "accuracy": "correct",
+        "choice": "A: 2"
+      },
+      {
+        "s_id": 178,
+        "accuracy": "correct",
+        "choice": "A: 2"
+      },
+      {
+        "s_id": 203,
+        "accuracy": "correct",
+        "choice": "A: 2"
+      },
+      {
+        "s_id": 238,
+        "accuracy": "correct",
+        "choice": "A: 2"
+      },
+      {
+        "s_id": 241,
+        "accuracy": "incorrect",
+        "choice": "C: 4"
+      },
+      {
+        "s_id": 155,
+        "accuracy": "correct",
+        "choice": "A: 2"
+      },
+      {
+        "s_id": 246,
+        "accuracy": "correct",
+        "choice": "A: 2"
+      },
+      {
+        "s_id": 160,
+        "accuracy": "correct",
+        "choice": "A: 2"
+      },
+      {
+        "s_id": 148,
+        "accuracy": "correct",
+        "choice": "A: 2"
+      },
+      {
+        "s_id": 140,
+        "accuracy": "correct",
+        "choice": "A: 2"
+      },
+      {
+        "s_id": 136,
+        "accuracy": "correct",
+        "choice": "A: 2"
+      },
+      {
+        "s_id": 244,
+        "accuracy": "correct",
+        "choice": "A: 2"
+      }
+    ]
+  },
+  {
+    "q_id": "1_5",
+    "learning_mat_id": 0,
+    "q_text": "From 1980s to 1990s, [    ] , followed by the second AI winter, led to success.\nA) thinking machines\nB) expert systems\nC) machine learning\nD) digital virtual assistants",
+    "answer": "B: expert systems",
+    "learning_mat": "## SLIDE 1: What is AI and AI applications.\nTRANSCRIPT:\nAI is already applied in everyday life, used in social media face filters, facial recognition, content recommendation, and language translating technology. For example, AI is used for social media face filters by identifying key points on a person's face, or face landmarks, such as the eyes, nose, and mouth. Once these points have been identified, the contours of the face can be pinpointed, and the filter can be applied onto the user's face.\n\nSLIDE CONTENT:\nA title named #What is Artificial Intelligence# and a subtitle named #Everyday Applications#. A text block whose contents are: #AI is already applied in everyday life: social media face filters, facial recognition, content recommendation, language translating#. A picture containing one smiling girl, a read bounding box around her head, her face mesh, and face landmark points on her face. A picture containing one smiling man who wears a pair of red glasses in the video. A picture containing one smiling man whose face is colored differently on different parts of the face mesh.\n\n## SLIDE 2: AI History.\nTRANSCRIPT:\nThe beginning of AI research dates back to the 1950s. Alan Turing, a notable computer scientist known for the breaking of the Enigma code in World War II, published a paper suggesting the testing of a \u201cthinking\u201d machine that could hold a conversation with a human as if it were just another person. Turing's papers and their discussion sparked the concept of artificial intelligence. While artificial intelligence was an exciting, futuristic concept in the 1950s, by the 1970s, AI research funding was cut due to many reports stating a lack of progress and success. The late 1970s became known as the first AI winter. The first AI winter ended in the early 1980s after several new developments. One of these developments was the US increasing funding for AI again. Japan had started a new fifth generation computer project and the US aimed to compete to become a world leader in computer science. Another development was the introduction of \u201cExpert Systems\u201d which was quickly utilized by large global corporations. The 1980s marked the end of the first AI winter with the promising introduction of Expert Systems. The Expert system operated within a clearly defined area of knowledge and followed strict logic rules. Even with such restrictions, these programs proved useful to corporations. However, despite the success of the Expert system, computer science experienced a second AI winter starting in 1987. Expert system computers were seen as slow, bulky, and not user friendly, and were becoming too expensive and difficult to update compared to the new desktop computer. As consumers no longer needed to buy an expensive machine specialized for running expert systems, this led to the collapse of the market for specialized AI hardware in 1987. Thus, an entire industry worth half a billion dollars was replaced in a single year. Research funding was once again cut. It wasn't until 1997 when IBM's Deep Blue defeated chess champion Garry Kasparov that the general public realized the power of AI. With the breakthrough in hardware equipment, the computer's processing power and storage capacity grew exponentially, enabling companies to store and process large amounts of data. Various companies and government agencies have successfully applied AI on a larger scale in different applications. This leads to a new round of growth in AI. The 2010s saw the rise of digital virtual assistants. Assistants like Alexa, Siri, and Google utilize natural language processing to act as a convenient source of information for users, doing many of the tasks a human assistant would. Virtual assistants like these are the future of AI. They are controlling autonomous cars and taking a physical form as a robot. Artificial intelligence has come a long way since Alan Turing's idea in a hypothetical paper, and it will continue into the future driving cars, walking around in everyday life, and more.\n\nSLIDE CONTENT:\nA title named #What is Artificial Intelligence# and a subtitle named #AI\\'s Development History#. An arrow pointing to a picture of Alan Turing. A text block whose contents are: #1950s: Alan Turing suggests the possibility of a thinking machine#. An arrow pointing to a picture, which shows that several AI experts are discussing in a conference in the first AI winter. A text block whose contents are: #1970s:Difficulties in AI progress and the first AI winter. #. An arrow pointing to a picture, which shows the intelligence of AI. A text block whose contents are: #1980s-1990s: Expert systems, followed by the second AI winter leading to SUCCESS!#. An arrow pointing to a picture, which shows the more advanced intelligence of AI. A text block whose contents are: #1990s-2000s: The development of machine learning.#. An arrow pointing to a picture, which shows a chat robot and a boy are talking. A text block whose contents are: #2010s: Digital virtual assistants and chat boxes.#. A timeline axis symbol from left to right to show AI History.\n\n## SLIDE 3: AI Definition and classification.\nTRANSCRIPT:\nArtificial Intelligence Definitions: But still, what is AI? AI usually does not have one explicit definition. However, it can be defined as a sector of computer science that allows computers to solve problems through making predictions and decisions. The sector of AI where AI currently is adopted in products is called machine learning, or ML. Machine learning teaches computers how to make problem-solving predictions and decisions by teaching them to learn from collected data. As seen in the diagram, artificial intelligence is a branch of computer science, and machine learning is a branch of artificial intelligence.\n\nSLIDE CONTENT:\nA title named #What is Artificial Intelligence# and a subtitle named #Definition#. A text block whose contents are: #Artificial intelligence: allows computers to solve problems through making predictions and decisions.#. A text block whose contents are: #Machine Learning: teaches computers how to solve problems by learning from collected data.#. A picture containing three layers of circles. The first layer outer circle is Computer Science, the second layer circle is Artificial Intelligence, the third layer inner circle is Machine Learning. The picture also shows that machine learning is the course focus.\n\n## SLIDE 4: Three ways of AI learning.\nTRANSCRIPT:\nAs our focus will be on machine learning, now let us have a look at this field in AI from a high level. Usually, machine learning problems and its related solutions can be divided into three categories. We will have a look at each category.\n\nSLIDE CONTENT:\nA title named # Lecture 1 # and a subtitle named # How AI Learns the World #. A text block whose contents are: # What is AI? #. A text block whose contents are: # Three Ways of Learning: Supervised Learning, Unsupervised Learning, Reinforcement Learning. #. A text block whose contents are: # Optimization. #.",
+    "topic": "AI History.",
+    "stud_perf": [
+      {
+        "s_id": 167,
+        "accuracy": "incorrect",
+        "choice": "C: machine learning"
+      },
+      {
+        "s_id": 240,
+        "accuracy": "correct",
+        "choice": "B: expert systems"
+      },
+      {
+        "s_id": 164,
+        "accuracy": "incorrect",
+        "choice": "A: thinking machines"
+      },
+      {
+        "s_id": 142,
+        "accuracy": "correct",
+        "choice": "B: expert systems"
+      },
+      {
+        "s_id": 158,
+        "accuracy": "incorrect",
+        "choice": "C: machine learning"
+      },
+      {
+        "s_id": 209,
+        "accuracy": "correct",
+        "choice": "B: expert systems"
+      },
+      {
+        "s_id": 212,
+        "accuracy": "correct",
+        "choice": "B: expert systems"
+      },
+      {
+        "s_id": 234,
+        "accuracy": "incorrect",
+        "choice": "A: thinking machines"
+      },
+      {
+        "s_id": 257,
+        "accuracy": "incorrect",
+        "choice": "A: thinking machines"
+      },
+      {
+        "s_id": 149,
+        "accuracy": "incorrect",
+        "choice": "C: machine learning"
+      },
+      {
+        "s_id": 165,
+        "accuracy": "correct",
+        "choice": "B: expert systems"
+      },
+      {
+        "s_id": 218,
+        "accuracy": "correct",
+        "choice": "B: expert systems"
+      },
+      {
+        "s_id": 219,
+        "accuracy": "incorrect",
+        "choice": "A: thinking machines"
+      },
+      {
+        "s_id": 233,
+        "accuracy": "incorrect",
+        "choice": "C: machine learning"
+      },
+      {
+        "s_id": 146,
+        "accuracy": "incorrect",
+        "choice": "C: machine learning"
+      },
+      {
+        "s_id": 213,
+        "accuracy": "incorrect",
+        "choice": "A: thinking machines"
+      },
+      {
+        "s_id": 258,
+        "accuracy": "incorrect",
+        "choice": "A: thinking machines"
+      },
+      {
+        "s_id": 201,
+        "accuracy": "correct",
+        "choice": "B: expert systems"
+      },
+      {
+        "s_id": 179,
+        "accuracy": "incorrect",
+        "choice": "A: thinking machines"
+      },
+      {
+        "s_id": 181,
+        "accuracy": "correct",
+        "choice": "B: expert systems"
+      },
+      {
+        "s_id": 216,
+        "accuracy": "correct",
+        "choice": "B: expert systems"
+      },
+      {
+        "s_id": 245,
+        "accuracy": "incorrect",
+        "choice": "D: digital virtual assistants"
+      },
+      {
+        "s_id": 176,
+        "accuracy": "correct",
+        "choice": "B: expert systems"
+      },
+      {
+        "s_id": 228,
+        "accuracy": "correct",
+        "choice": "B: expert systems"
+      },
+      {
+        "s_id": 161,
+        "accuracy": "incorrect",
+        "choice": "C: machine learning"
+      },
+      {
+        "s_id": 202,
+        "accuracy": "incorrect",
+        "choice": "A: thinking machines"
+      },
+      {
+        "s_id": 175,
+        "accuracy": "correct",
+        "choice": "B: expert systems"
+      },
+      {
+        "s_id": 230,
+        "accuracy": "incorrect",
+        "choice": "A: thinking machines"
+      },
+      {
+        "s_id": 154,
+        "accuracy": "correct",
+        "choice": "B: expert systems"
+      },
+      {
+        "s_id": 163,
+        "accuracy": "incorrect",
+        "choice": "A: thinking machines"
+      },
+      {
+        "s_id": 204,
+        "accuracy": "incorrect",
+        "choice": "A: thinking machines"
+      },
+      {
+        "s_id": 263,
+        "accuracy": "incorrect",
+        "choice": "A: thinking machines"
+      },
+      {
+        "s_id": 200,
+        "accuracy": "incorrect",
+        "choice": "C: machine learning"
+      },
+      {
+        "s_id": 220,
+        "accuracy": "correct",
+        "choice": "B: expert systems"
+      },
+      {
+        "s_id": 191,
+        "accuracy": "correct",
+        "choice": "B: expert systems"
+      },
+      {
+        "s_id": 208,
+        "accuracy": "correct",
+        "choice": "B: expert systems"
+      },
+      {
+        "s_id": 260,
+        "accuracy": "incorrect",
+        "choice": "C: machine learning"
+      },
+      {
+        "s_id": 207,
+        "accuracy": "incorrect",
+        "choice": "C: machine learning"
+      },
+      {
+        "s_id": 217,
+        "accuracy": "incorrect",
+        "choice": "A: thinking machines"
+      },
+      {
+        "s_id": 211,
+        "accuracy": "correct",
+        "choice": "B: expert systems"
+      },
+      {
+        "s_id": 186,
+        "accuracy": "incorrect",
+        "choice": "A: thinking machines"
+      },
+      {
+        "s_id": 262,
+        "accuracy": "correct",
+        "choice": "B: expert systems"
+      },
+      {
+        "s_id": 256,
+        "accuracy": "incorrect",
+        "choice": "C: machine learning"
+      },
+      {
+        "s_id": 153,
+        "accuracy": "correct",
+        "choice": "B: expert systems"
+      },
+      {
+        "s_id": 178,
+        "accuracy": "correct",
+        "choice": "B: expert systems"
+      },
+      {
+        "s_id": 203,
+        "accuracy": "incorrect",
+        "choice": "C: machine learning"
+      },
+      {
+        "s_id": 238,
+        "accuracy": "correct",
+        "choice": "B: expert systems"
+      },
+      {
+        "s_id": 241,
+        "accuracy": "incorrect",
+        "choice": "A: thinking machines"
+      },
+      {
+        "s_id": 155,
+        "accuracy": "incorrect",
+        "choice": "A: thinking machines"
+      },
+      {
+        "s_id": 246,
+        "accuracy": "correct",
+        "choice": "B: expert systems"
+      },
+      {
+        "s_id": 160,
+        "accuracy": "incorrect",
+        "choice": "C: machine learning"
+      },
+      {
+        "s_id": 148,
+        "accuracy": "correct",
+        "choice": "B: expert systems"
+      },
+      {
+        "s_id": 140,
+        "accuracy": "incorrect",
+        "choice": "A: thinking machines"
+      },
+      {
+        "s_id": 136,
+        "accuracy": "correct",
+        "choice": "B: expert systems"
+      },
+      {
+        "s_id": 244,
+        "accuracy": "correct",
+        "choice": "B: expert systems"
+      }
+    ]
+  }
+]
